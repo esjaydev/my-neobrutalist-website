@@ -84,11 +84,12 @@ button:active {
 /* SECCIONES GENERAL */
 body {
 	background-color: var(--color2);
+	margin: 0;
 }
 
 .wrapper,
 .footer {
-	max-width: 800px;
+	max-width: 850px;
 	height: auto;
 	margin: 25px auto;
 	background-color: white;
